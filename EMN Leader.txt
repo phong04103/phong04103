@@ -1,0 +1,10 @@
+Duong Cam Tuan (MS/EMN14) <Tuan.DuongCam@vn.bosch.com>; 
+Le Dang Khuong Duy (MS/EMN11) <Duy.LeDangKhuong@vn.bosch.com>;
+ Le Tuan Kiet (MS/EMN12) <Kiet.LeTuan@vn.bosch.com>; 
+Ly Thai Binh (MS/EMN52 MS/EMN53) <Binh.LyThai@vn.bosch.com>; 
+Nguyen Tu Lang (MS/EMN13) <Lang.NguyenTu@vn.bosch.com>; 
+Phan Van Chan (MS/EMN5 MS/EMN51) <Chan.PhanVan@vn.bosch.com>; 
+Thakku Mohan Parthiban (MS/EMN3 MS/EMN32) <Mohan.ParthibanThakku@vn.bosch.com>; 
+Tran Viet Thang (MS/EMN42) <Thang.TranViet2@vn.bosch.com>; 
+Vo Van Luat (MS/EMN21 MS/EMN22) <Luat.VoVan@vn.bosch.com>; 
+Vo Xuan Huy (MS/EMN4 MS/EMN41) <Huy.VoXuan@vn.bosch.com>
